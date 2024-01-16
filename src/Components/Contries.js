@@ -1,4 +1,3 @@
-// Contries.js
 import React from 'react';
 import { Routes, Route, Link ,useParams} from 'react-router-dom';
 import { useCountries } from '../CountriesContext';
