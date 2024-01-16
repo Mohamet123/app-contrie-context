@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-contrie-context/static/css/main.c1f2d15a.css",
+    "main.js": "/app-contrie-context/static/js/main.664e8b21.js",
+    "static/js/787.07cecff9.chunk.js": "/app-contrie-context/static/js/787.07cecff9.chunk.js",
+    "index.html": "/app-contrie-context/index.html",
+    "main.c1f2d15a.css.map": "/app-contrie-context/static/css/main.c1f2d15a.css.map",
+    "main.664e8b21.js.map": "/app-contrie-context/static/js/main.664e8b21.js.map",
+    "787.07cecff9.chunk.js.map": "/app-contrie-context/static/js/787.07cecff9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f2d15a.css",
+    "static/js/main.664e8b21.js"
+  ]
+}
